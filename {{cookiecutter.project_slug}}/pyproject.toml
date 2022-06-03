@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "{{cookiecutter.project_name}}"
 description = "pyproject template"
+version = "0.1.0"
 authors = ["Derek Lyu"]
 
 
